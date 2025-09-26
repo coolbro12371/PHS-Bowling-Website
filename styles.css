@@ -1,0 +1,162 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+h1 { font-family: "Crimson Text"; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 13.2px; } h3 { font-family: "Crimson Text"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: "Crimson Text"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 20px; } blockquote { font-family: "Crimson Text"; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: "Crimson Text"; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 18.5714px; }
+
+nav{
+    color: black;
+    padding: 20px 50px;
+}
+.navTop{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navTopBtn{
+    width: 75px;
+    height: 40px;
+    border: hidden;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+@-webkit-keyframes rainbow {
+  0% {
+    color: #ff0000;
+  }
+  10% {
+    color: #ff8000;
+  }
+  20% {
+    color: #ffff00;
+  }
+  30% {
+    color: #80ff00;
+  }
+  40% {
+    color: #00ff00;
+  }
+  50% {
+    color: #00ff80;
+  }
+  60% {
+    color: #00ffff;
+  }
+  70% {
+    color: #0080ff;
+  }
+  80% {
+    color: #0000ff;
+  }
+  90% {
+    color: #8000ff;
+  }
+  100% {
+    color: #ff0080;
+  }
+}
+@-ms-keyframes rainbow {
+  0% {
+    color: #ff0000;
+  }
+  10% {
+    color: #ff8000;
+  }
+  20% {
+    color: #ffff00;
+  }
+  30% {
+    color: #80ff00;
+  }
+  40% {
+    color: #00ff00;
+  }
+  50% {
+    color: #00ff80;
+  }
+  60% {
+    color: #00ffff;
+  }
+  70% {
+    color: #0080ff;
+  }
+  80% {
+    color: #0000ff;
+  }
+  90% {
+    color: #8000ff;
+  }
+  100% {
+    color: #ff0080;
+  }
+}
+@-o-keyframes rainbow {
+  0% {
+    color: #ff0000;
+  }
+  10% {
+    color: #ff8000;
+  }
+  20% {
+    color: #ffff00;
+  }
+  30% {
+    color: #80ff00;
+  }
+  40% {
+    color: #00ff00;
+  }
+  50% {
+    color: #00ff80;
+  }
+  60% {
+    color: #00ffff;
+  }
+  70% {
+    color: #0080ff;
+  }
+  80% {
+    color: #0000ff;
+  }
+  90% {
+    color: #8000ff;
+  }
+  100% {
+    color: #ff0080;
+  }
+}
+@keyframes rainbow {
+  0% {
+    color: #ff0000;
+  }
+  10% {
+    color: #ff8000;
+  }
+  20% {
+    color: #ffff00;
+  }
+  30% {
+    color: #80ff00;
+  }
+  40% {
+    color: #00ff00;
+  }
+  50% {
+    color: #00ff80;
+  }
+  60% {
+    color: #00ffff;
+  }
+  70% {
+    color: #0080ff;
+  }
+  80% {
+    color: #0000ff;
+  }
+  90% {
+    color: #8000ff;
+  }
+  100% {
+    color: #ff0080;
+  }
+}
